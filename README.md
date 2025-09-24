@@ -15,4 +15,5 @@ O serviço possui limite diário de consultas, mesmo com o uso da chave de API.
 Para evitar bloqueios e melhorar a performance, é altamente recomendado implementar cache local dos resultados das consultas.
 
 📷 Exemplo da Interface
+
 <img width="689" height="428" alt="Screenshot_1" src="https://github.com/user-attachments/assets/ba097778-b17f-4614-8ca9-bfc471045e48" />
