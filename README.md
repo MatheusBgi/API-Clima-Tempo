@@ -16,4 +16,5 @@ Para evitar bloqueios e melhorar a performance, é altamente recomendado impleme
 
 📷 Exemplo da Interface
 
-<img width="689" height="428" alt="Screenshot_1" src="https://github.com/user-attachments/assets/ba097778-b17f-4614-8ca9-bfc471045e48" />
+<img width="658" height="389" alt="image" src="https://github.com/user-attachments/assets/fc032a12-7001-4fc9-add6-c012b812559c" />
+
