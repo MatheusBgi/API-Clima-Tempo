@@ -3,7 +3,7 @@
 
 $ApiOnline = 0;
 $woeid = "458706"; // Encontre o WOEID da sua cidade em https://console.hgbrasil.com/documentation/weather/tools
-$key = "2c1691e0"; // Para criar sua KEY, basta criar sua conta e escolher o plano gratuito. https://console.hgbrasil.com/keys
+$key = "SUA KEY AQUI"; // Para criar sua KEY, basta criar sua conta e escolher o plano gratuito. https://console.hgbrasil.com/keys
 
 $url = "https://api.hgbrasil.com/weather?woeid={$woeid}&format=json&key={$key}";
 
